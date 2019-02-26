@@ -21,6 +21,7 @@ font-weight: bold;
 font-size: 120%;
 margin-bottom: 10px; 
 font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+color: purple;
 }
 
 h3 
@@ -30,14 +31,13 @@ font-weight: bold;
 font-size: 100%;
 margin-bottom: 10px; 
 font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+color: purple;
 }
 
-/*
 a 
 {
 color: #093
 }
-*/
 
 header 
 {		
