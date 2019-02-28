@@ -85,7 +85,7 @@ margin-left:165px;
 width:435px;
 background-color:#fff;
 display:block;
-height:602px;
+height:480px;
 }
 
 nav 
@@ -94,7 +94,7 @@ display:block;
 float:left;
 width:165px;
 background:#fc3 url(navbg_04.gif) repeat-y top right;
-height:602px;
+height:480px;
 }
 
 footer 
@@ -130,10 +130,20 @@ table.center
 
 td
 {
-    padding: 5px;
+    padding: 3px;
 }
 
 th.width
 {
-    width: 50px;
+    width: 93px;
+}
+
+tr.lightblue
+{
+    background-color: #6699FF;
+}
+
+tr.lightgreen
+{
+    background-color: #98FB98;
 }
