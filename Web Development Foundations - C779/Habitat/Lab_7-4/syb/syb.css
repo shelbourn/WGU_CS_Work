@@ -89,7 +89,7 @@ padding:0;
 margin-left:165px;
 width:435px;
 display:block;
-height:862px;
+height:915px;
 }
 
 nav 
@@ -98,7 +98,7 @@ display:block;
 float:left;
 width:165px;
 background:#fc3 url(navbg_04.gif) repeat-y top right;
-height:862px;
+height:915px;
 }
 
 footer 
@@ -114,3 +114,9 @@ margin-top:0;
 background-color:#fff;
 }
 
+audio.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
